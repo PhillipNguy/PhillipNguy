@@ -56,6 +56,8 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/PhillipNguy/portfolioV2/pull/1) in [PhillipNguy/portfolioV2](https://github.com/PhillipNguy/portfolioV2)
+2. 💪 Opened PR [#1](https://github.com/PhillipNguy/portfolioV2/pull/1) in [PhillipNguy/portfolioV2](https://github.com/PhillipNguy/portfolioV2)
 <!--END_SECTION:activity-->
 
 
