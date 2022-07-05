@@ -48,21 +48,23 @@
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<br/>
+<br/>
+
+---
+
+<summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- BLOG-POST-LIST:END -->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="PhillipNguy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PhillipNguy&show_icons=true&theme=tokyoonnight&hide_border=false&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="PhillipNguy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PhillipNguy&show_icons=true&theme=tokyonight&hide_border=true" />
 
-</details>
 
+
+<!--
 [website]: https://PhillipNguy.com
 [instagram]: https://instagram.com/xForgetfulPhilx
-[linkedin]: https://linkedin.com/in/PhillipNguy
+[linkedin]: https://linkedin.com/in/PhillipNguy -->
