@@ -52,6 +52,7 @@
 <br/>
 
 ---
+<img align="left" alt="PhillipNguy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PhillipNguy&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ### :zap: Recent GitHub Activity
 
@@ -61,7 +62,6 @@
 
 
 
-<img align="left" alt="PhillipNguy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PhillipNguy&show_icons=true&theme=tokyonight&hide_border=true" />
 
 
 
