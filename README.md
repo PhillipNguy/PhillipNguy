@@ -1,5 +1,8 @@
 #  <img src="https://media.giphy.com/media/IkSswyeZBIh1uI9ncQ/giphy.gif" width="50"> Hey! I'm Phillip Nguy - [Portfolio][website] <img src="https://media.giphy.com/media/IkSswyeZBIh1uI9ncQ/giphy.gif" width="50">
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PhillipNguy&label=Profile%20views&color=0e75b6&style=flat" alt="PhillipNguy" /> </p>
+
+
 
 <div align="center">
   <img src="./assets/selfie.jpeg" alt="Don't look at me" width="250">
