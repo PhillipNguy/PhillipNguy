@@ -1,4 +1,6 @@
-#  <img src="https://media.giphy.com/media/IkSswyeZBIh1uI9ncQ/giphy.gif" width="50"> Hey, I'm Phillip! - [Portfolio][website] <img src="https://media.giphy.com/media/IkSswyeZBIh1uI9ncQ/giphy.gif" width="50">
+
+# <div align="center"><img  src="https://media.giphy.com/media/IkSswyeZBIh1uI9ncQ/giphy.gif" width="50"> Hey, I'm Phillip! - [Portfolio][website] <img src="https://media.giphy.com/media/IkSswyeZBIh1uI9ncQ/giphy.gif" width="50">
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PhillipNguy&label=Profile%20views&color=0e75b6&style=flat" alt="PhillipNguy" /> </p>
 
