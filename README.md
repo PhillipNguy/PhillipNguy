@@ -48,7 +48,7 @@
 
 <div>
   <a href="https://www.instagram.com/xforgetfulphilx/" target="blank"><img src="./assets/instagram.png" alt="xForgetfulPhilx" width="40px" align='left' style="padding-right:10px; margin-top:10px"/>
-  <a href="https://linkedin.com/in/phillipnguy" target="blank"><img src="./assets/linkedin.svg" alt="phillipnguy" width="50px" align='left' style="padding-right:10px; margin-top:5px"/>
+  <a href="https://linkedin.com/in/phillipnguy" target="blank"><img src="./assets/linkedin.svg" alt="phillipnguy" width="50px" align='left' style="padding-right:10px;"/>
 </div>
 
 &nbsp;
